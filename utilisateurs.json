@@ -1,0 +1,19 @@
+[
+  { "id_etudiant": "01", "nom": "Jean", "session": "1", "cours": ["Prog1"] },
+  { "id_etudiant": "02", "nom": "rejean", "session": "2", "cours": ["Prog2"] },
+  { "id_etudiant": "03", "nom": "Paul", "session": "2", "cours": ["OOP1"] },
+  {
+    "id_etudiant": "04",
+    "nom": "Louis",
+    "session": "2",
+    "cours": ["literature1"]
+  },
+  { "id_etudiant": "05", "nom": "Aline", "session": "2", "cours": ["react2"] },
+  { "id_etudiant": "06", "nom": "Alec", "session": "2", "cours": ["anglais2"] },
+  {
+    "id_etudiant": "07",
+    "nom": "Aladin",
+    "session": "2",
+    "cours": ["Literature1"]
+  }
+]
